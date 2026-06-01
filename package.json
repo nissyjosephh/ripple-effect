@@ -25,6 +25,7 @@
     "expo-sqlite": "~16.0.10",
     "expo-status-bar": "~3.0.9",
     "expo-file-system": "~18.0.12",
+    "expo-clipboard": "~7.0.0",
     "lucide-react-native": "^1.17.0",
     "nativewind": "^4.2.4",
     "react": "19.1.0",
